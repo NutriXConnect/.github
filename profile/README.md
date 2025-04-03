@@ -1,12 +1,33 @@
-## Hi there 👋
+# NutriXConnect
 
-<!--
+NutriXConnect is a **full-stack web application** designed to connect users with professional dietitians. Users can **subscribe to diet plans, track their meals, and manage their nutrition journey**, while dietitians can update and monitor subscriptions.  
 
-**Here are some ideas to get you started:**
+## 🚀 Features  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **User Dashboard** – View and track diet plans, mark meals as completed.  
+- **Dietitian Portal** – Manage user subscriptions, update diet plans.  
+- **Subscription Management** – Users can subscribe to dietitian plans and make payments.  
+- **Secure Payments** – Integrated **Razorpay** for seamless transactions.  
+- **Real-time Updates** – Efficient tracking with instant updates.  
+- **Scalable Architecture** – Built with **Vite, React, Tailwind CSS, Express, and MongoDB**.  
+
+## 📌 Project Link  
+🔗 [NutriXConnect Repository](https://github.com/NutriXConnect)  
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** Vite, React, Tailwind CSS  
+- **Backend:** Express.js, MongoDB  
+- **Payments:** Razorpay  
+- **Authentication:** JWT  
+
+## Test Credentials:
+
+### User Credentials:
+- **email** testing@gmail.com
+- **password**: testing
+
+### Dietitian Credentials:
+- **email**: p.yuvaraj@nutrixconnect.com
+- **password**: 1Yuvaraj@
+  
